@@ -81,6 +81,9 @@ Hardware-software products for engineering training programs, interactive kiosks
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B00" />
 <img src="https://img.shields.io/badge/Vector_Database-00ADD8?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine--Tuning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Sharding-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
