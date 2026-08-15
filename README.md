@@ -2,13 +2,13 @@
 
 # Shashank Jangid
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=680&lines=Founder+%40+Orange+Future+Tech;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;MLOps+%7C+Deep+Learning+%7C+Transformers;Enterprise+Software+%7C+TypeScript+%7C+Next.js;Industrial+Automation+%7C+STEM+Education" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=720&lines=Founder+%40+Orange+Future+Tech;AI+%26+ML+Engineer+%7C+LLMs+%7C+RAG+%7C+Fine-Tuning;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;Multi-Agent+Systems+%7C+LangChain+%7C+LangGraph;Enterprise+Software+%7C+TypeScript+%7C+Next.js" alt="Typing animation" />
 
 <br/>
 
 <a href="https://orangefuturetech.com"><img src="https://img.shields.io/badge/Orange_Future_Tech-orangefuturetech.com-FF6B00?style=for-the-badge&logo=icloud&logoColor=white" /></a>
 <a href="https://shashankjangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shashankjangid.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://cardgen.orangefuturetech.com"><img src="https://img.shields.io/badge/CardGen_ID-cardgen.orangefuturetech.com-1C1C1C?style=for-the-badge&logo=buffer&logoColor=FF6B00" /></a>
+<a href="https://cardgen.orangefuturetech.com"><img src="https://img.shields.io/badge/CardGen_Platform-cardgen.orangefuturetech.com-1C1C1C?style=for-the-badge&logo=buffer&logoColor=FF6B00" /></a>
 
 <br/><br/>
 
@@ -20,53 +20,53 @@
 
 ---
 
-I operate at the intersection of **industrial hardware** and **production software** — designing robotic control systems with the same discipline I apply to building enterprise platforms. Everything I ship is built for real environments, not demos.
+I operate at the intersection of **AI systems**, **industrial robotics**, and **production software** — building things that work in the real world, not just in notebooks.
 
-Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an engineering company building industrial automation tools, robotics products, and STEM education systems.
+Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an engineering company delivering industrial automation, robotics R&D products, and STEM education platforms.
 
----
-
-### Currently Shipping
-
-**Unitree Z1 Arm SDK & Controller**
-&nbsp;&nbsp;A precision control stack for the Unitree Z1 robotic arm — low-level CAN bus communication, joint-space motor commands, and high-level kinematic motion planning. Written in C++ and Python, designed for research and industrial deployment.
-
-**CardGen ID Platform** · [cardgen.orangefuturetech.com](https://cardgen.orangefuturetech.com)
-&nbsp;&nbsp;Enterprise credential management and ID card generation system. Handles high-throughput institutional workflows with a clean operator interface.
-
-**Enterprise Document Management System**
-&nbsp;&nbsp;Production-grade DMS with role-based access control, audit trails, document versioning, and a full REST API — built for industrial organizations.
-
-**RAG-LangChain-Pipeline** · [github.com/ShashankJangid/rag-langchain-pipeline](https://github.com/ShashankJangid/rag-langchain-pipeline)
-&nbsp;&nbsp;End-to-end RAG system — LangChain LCEL, ChromaDB vector store, HuggingFace sentence-transformer embeddings, and Gemini LLM. Supports PDF, URL, and directory ingestion with persistent vector storage.
-
-**MCP Server Toolkit** · [github.com/ShashankJangid/mcp-server-toolkit](https://github.com/ShashankJangid/mcp-server-toolkit)
-&nbsp;&nbsp;Model Context Protocol server exposing file system and web tools to LLM clients. Compatible with Claude Desktop, Cursor, and any MCP-enabled agent.
-
-**Distributed DB Sharding Engine** · [github.com/ShashankJangid/distributed-db-sharding](https://github.com/ShashankJangid/distributed-db-sharding)
-&nbsp;&nbsp;Consistent hash ring with virtual nodes, ShardManager lifecycle, query router, and replication factor N — built for horizontal PostgreSQL partitioning.
-
-**n8n Automation Workflows** · [github.com/ShashankJangid/n8n-workflow-hub](https://github.com/ShashankJangid/n8n-workflow-hub)
-&nbsp;&nbsp;Production n8n workflow templates — AI document summarizer, GitHub PR Slack notifier, and scheduled database backup pipeline.
-
-**MLOps Training Pipeline**
-&nbsp;&nbsp;DistilBERT fine-tuned on UCSD Goodreads reviews → Dockerized inference → GitHub Actions CI/CD → W&B experiment tracking.
+> Open to **AI/ML Engineer**, **MLOps**, **Full-Stack**, or **Robotics Software** roles. Available for full-time, contract, and consulting engagements.
 
 ---
 
-### Engineering Domains
+### AI & Machine Learning Projects
 
-**Robotics & Motion Systems**
-Robotic arm control at the joint and task-space level. CAN bus integration, real-time motor feedback loops, SDK development, and kinematic solvers for 6-DOF manipulators.
+| Project | Description | Stack |
+|---|---|---|
+| [**ai-agent-framework**](https://github.com/ShashankJangid/ai-agent-framework) | Multi-agent orchestration with LangGraph — BaseAgent interface, ResearchAgent, Orchestrator state machine, sliding-window memory | `LangChain` `LangGraph` `Gemini` `Pydantic` |
+| [**rag-langchain-pipeline**](https://github.com/ShashankJangid/rag-langchain-pipeline) | Production RAG pipeline — LangChain LCEL, ChromaDB vector store, HuggingFace embeddings, PDF/URL/text ingestion | `LangChain` `ChromaDB` `RAG` `Embeddings` |
+| [**llm-finetuning-toolkit**](https://github.com/ShashankJangid/llm-finetuning-toolkit) | QLoRA fine-tuning — PEFT LoRA adapters on Gemma-2B, TRL SFTTrainer, 4-bit NF4 quantization, W&B tracking | `PEFT` `LoRA` `Transformers` `W&B` |
+| [**gemini-multimodal-suite**](https://github.com/ShashankJangid/gemini-multimodal-suite) | 4-tool Streamlit app — AI chat, image analysis, meeting audio summarizer, and code reviewer via Gemini API | `Gemini API` `Streamlit` `Vision` `Audio` |
+| [**computer-vision-pipeline**](https://github.com/ShashankJangid/computer-vision-pipeline) | Real-time detection + tracking — YOLOv8 inference on image/video/webcam, ByteTrack multi-object tracker | `YOLOv8` `OpenCV` `ByteTrack` `Python` |
+| [**Machine_Learning_Ops**](https://github.com/ShashankJangid/Machine_Learning_Ops) | DistilBERT fine-tuned on Goodreads reviews for 7-class genre classification, deployed to HuggingFace Hub | `HuggingFace` `Transformers` `W&B` |
+| [**Deep-Learning**](https://github.com/ShashankJangid/Deep-Learning) | Neural network for earthquake intensity prediction from seismic telemetry data | `TensorFlow` `Jupyter` `NumPy` |
+| [**AI_notes**](https://github.com/ShashankJangid/AI_notes) | Streamlit AI assistant suite — meeting audio summarizer and document cleaner via Gemini 2.5 Flash | `Gemini` `Streamlit` `Audio` |
 
-**Machine Learning & AI Systems**
-Model training with PyTorch and TensorFlow, LLM fine-tuning and RAG pipeline design with LangChain, Hugging Face Transformers, and vector databases. Computer vision with OpenCV, large dataset analysis, and productionized inference via containerized deployments. Workflow automation with n8n and MCP integrations.
+### Infrastructure & Automation Projects
 
-**Enterprise Platform Engineering**
-Scalable TypeScript/Next.js web applications serving institutional clients — logistics platforms, identity systems, education kiosks, and document workflows.
+| Project | Description | Stack |
+|---|---|---|
+| [**mcp-server-toolkit**](https://github.com/ShashankJangid/mcp-server-toolkit) | MCP server exposing file system and HTTP tools to LLM clients — Claude Desktop, Cursor compatible | `MCP` `Python` `asyncio` |
+| [**n8n-workflow-hub**](https://github.com/ShashankJangid/n8n-workflow-hub) | Production n8n workflow templates — AI summarizer, GitHub→Slack notifier, scheduled DB backup | `n8n` `Automation` `CI/CD` |
+| [**distributed-db-sharding**](https://github.com/ShashankJangid/distributed-db-sharding) | Consistent hash ring with virtual nodes, ShardManager, query router, Bash health check scripts | `PostgreSQL` `Sharding` `Python` `Bash` |
+| [**enterprise-dms**](https://github.com/ShashankJangid/enterprise-dms) | Production document management system with RBAC, audit trails, versioning, and full REST API | `TypeScript` `PostgreSQL` `Docker` |
 
-**Industrial & STEM Education**
-Hardware-software products for engineering training programs, interactive kiosks, and automation literacy at industrial and academic institutions.
+### Robotics & Embedded Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Unitree_Z1_SDK**](https://github.com/ShashankJangid/Unitree_Z1_SDK) | Precision SDK for the Unitree Z1 arm — CAN bus communication, joint-space commands, kinematic planning | `C++` `Python` `Kinematics` |
+| [**Unitree_Z1_Controller**](https://github.com/ShashankJangid/Unitree_Z1_Controller) | High-level arm controller with real-time motor feedback and task-space trajectory execution | `C++` `ROS2` |
+| [**Advanced_Robotic_Car_with_Gesture_Control**](https://github.com/ShashankJangid/Advanced_Robotic_Car_with_Gesture_Control) | Mecanum car controlled via MPU6050 tilt gestures over nRF24L01 2.4GHz RF | `C++` `ESP32` `IMU` `RF` |
+| [**Analog_Robotic_Arm**](https://github.com/ShashankJangid/Analog_Robotic_Arm) | Master-slave servo arm — 6 potentiometers → 6 high-torque servos, real-time mirroring | `C++` `Servo` `Arduino` |
+| [**DPSI_School_Bell**](https://github.com/ShashankJangid/DPSI_School_Bell) | IoT campus bell — ESP32, NTP time sync, web dashboard, admin auth, SSR relay control | `C++` `ESP32` `IoT` |
+
+### Enterprise & Web Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Orange Future Tech**](https://orangefuturetech.com) | Company platform for industrial automation, robotics products, and STEM engineering | `JavaScript` `React` `Three.js` `Vercel` |
+| [**CardGen ID Platform**](https://cardgen.orangefuturetech.com) | Enterprise credential and identity card generation system for institutional use | `TypeScript` `Node.js` `Docker` |
+| [**Card_Gen**](https://github.com/ShashankJangid/Card_Gen) | ID card generator with custom templates, QR codes, and bulk export | `TypeScript` `Canvas API` |
 
 ---
 
@@ -74,57 +74,53 @@ Hardware-software products for engineering training programs, interactive kiosks
 
 <p align="left">
 
-**Core Languages**<br/>
+**Languages**<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br/><br/>
 
-**AI / ML & LLMs**<br/>
+**AI · ML · LLMs**<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Transformers-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine--Tuning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-22314E?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B00" />
 <img src="https://img.shields.io/badge/Vector_Database-00ADD8?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Fine--Tuning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Embeddings-0052CC?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Sharding-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 
 <br/><br/>
 
-**Robotics & Hardware**<br/>
+**Robotics · Hardware**<br/>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/CAN_Bus-FF6B00?style=for-the-badge&logo=can&logoColor=white" />
-<img src="https://img.shields.io/badge/Unitree_SDK-111111?style=for-the-badge&logo=robotframework&logoColor=FF6B00" />
+<img src="https://img.shields.io/badge/Unitree_SDK-FF6B00?style=for-the-badge&logo=robotframework&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 <br/><br/>
 
-**Web & Backend**<br/>
+**Web · Backend**<br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
 <br/><br/>
 
-**Automation & Infrastructure**<br/>
+**Automation · Infrastructure**<br/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=anthropic&logoColor=FF6B00" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -132,7 +128,6 @@ Hardware-software products for engineering training programs, interactive kiosks
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
