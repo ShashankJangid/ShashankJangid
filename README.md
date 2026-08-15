@@ -2,7 +2,7 @@
 
 # Shashank Jangid
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Founder+%40+Orange+Future+Tech;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;MLOps+%7C+Deep+Learning+%7C+AI+Pipelines;Enterprise+Software+%7C+TypeScript+%7C+Next.js;Industrial+Automation+%7C+STEM+Education" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=680&lines=Founder+%40+Orange+Future+Tech;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;MLOps+%7C+Deep+Learning+%7C+Transformers;Enterprise+Software+%7C+TypeScript+%7C+Next.js;Industrial+Automation+%7C+STEM+Education" alt="Typing animation" />
 
 <br/>
 
@@ -48,7 +48,7 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 Robotic arm control at the joint and task-space level. CAN bus integration, real-time motor feedback loops, SDK development, and kinematic solvers for 6-DOF manipulators.
 
 **Machine Learning & AI Systems**
-Model training with PyTorch and TensorFlow, computer vision with OpenCV, large dataset analysis, and productionized inference pipelines. Applied research in seismic prediction and EDA on real-world datasets.
+Model training with PyTorch and TensorFlow, LLM fine-tuning and RAG pipeline design with LangChain, Hugging Face Transformers, and vector databases. Computer vision with OpenCV, large dataset analysis, and productionized inference via containerized deployments. Workflow automation with n8n and MCP integrations.
 
 **Enterprise Platform Engineering**
 Scalable TypeScript/Next.js web applications serving institutional clients — logistics platforms, identity systems, education kiosks, and document workflows.
@@ -72,12 +72,17 @@ Hardware-software products for engineering training programs, interactive kiosks
 
 <br/><br/>
 
-**AI / ML**<br/>
+**AI / ML & LLMs**<br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B00" />
+<img src="https://img.shields.io/badge/Vector_Database-00ADD8?style=for-the-badge&logo=qdrant&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
@@ -103,7 +108,10 @@ Hardware-software products for engineering training programs, interactive kiosks
 
 <br/><br/>
 
-**Infrastructure**<br/>
+**Automation & Infrastructure**<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=anthropic&logoColor=FF6B00" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
