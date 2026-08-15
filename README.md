@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shashank Jangid
+# Er. Shashank Jangid
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=680&lines=Founder+%40+Orange+Future+Tech;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;MLOps+%7C+Deep+Learning+%7C+Transformers;Enterprise+Software+%7C+TypeScript+%7C+Next.js;Industrial+Automation+%7C+STEM+Education" alt="Typing animation" />
 
