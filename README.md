@@ -1,6 +1,6 @@
 <div align="center">
 
-# Er. Shashank Jangid
+# Shashank Jangid
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=680&lines=Founder+%40+Orange+Future+Tech;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;MLOps+%7C+Deep+Learning+%7C+Transformers;Enterprise+Software+%7C+TypeScript+%7C+Next.js;Industrial+Automation+%7C+STEM+Education" alt="Typing animation" />
 
@@ -37,8 +37,20 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 **Enterprise Document Management System**
 &nbsp;&nbsp;Production-grade DMS with role-based access control, audit trails, document versioning, and a full REST API — built for industrial organizations.
 
+**RAG-LangChain-Pipeline** · [github.com/ShashankJangid/rag-langchain-pipeline](https://github.com/ShashankJangid/rag-langchain-pipeline)
+&nbsp;&nbsp;End-to-end RAG system — LangChain LCEL, ChromaDB vector store, HuggingFace sentence-transformer embeddings, and Gemini LLM. Supports PDF, URL, and directory ingestion with persistent vector storage.
+
+**MCP Server Toolkit** · [github.com/ShashankJangid/mcp-server-toolkit](https://github.com/ShashankJangid/mcp-server-toolkit)
+&nbsp;&nbsp;Model Context Protocol server exposing file system and web tools to LLM clients. Compatible with Claude Desktop, Cursor, and any MCP-enabled agent.
+
+**Distributed DB Sharding Engine** · [github.com/ShashankJangid/distributed-db-sharding](https://github.com/ShashankJangid/distributed-db-sharding)
+&nbsp;&nbsp;Consistent hash ring with virtual nodes, ShardManager lifecycle, query router, and replication factor N — built for horizontal PostgreSQL partitioning.
+
+**n8n Automation Workflows** · [github.com/ShashankJangid/n8n-workflow-hub](https://github.com/ShashankJangid/n8n-workflow-hub)
+&nbsp;&nbsp;Production n8n workflow templates — AI document summarizer, GitHub PR Slack notifier, and scheduled database backup pipeline.
+
 **MLOps Training Pipeline**
-&nbsp;&nbsp;Complete ML workflow: Hugging Face model selection → dataset preparation → fine-tuning → Dockerized inference → automated CI/CD via GitHub Actions → W&B experiment tracking.
+&nbsp;&nbsp;DistilBERT fine-tuned on UCSD Goodreads reviews → Dockerized inference → GitHub Actions CI/CD → W&B experiment tracking.
 
 ---
 
