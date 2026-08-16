@@ -149,8 +149,7 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankJangid&show_icons=true&theme=github_dark&hide_border=true&title_color=FF6B00&icon_color=FF6B00&text_color=E6EDF3&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankJangid&theme=github-dark-blue&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&background=0d1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankJangid&theme=github-dark-blue&hide_border=true&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&currStreakLabel=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&background=0d1117" width="95%" />
 </p>
 
 <p align="center">
