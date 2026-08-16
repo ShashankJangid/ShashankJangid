@@ -32,7 +32,7 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**cuda-edge-detection**](https://github.com/ShashankJangid/cuda-edge-detection) | High-performance real-time edge detection in C++/CUDA — 2D shared-memory Sobel + 4-stage Canny GPU pipeline (50x+ speedup) | `CUDA` `C++17` `OpenCV` `GPU Compute` |
+| [**cuda-edge-detection**](https://github.com/ShashankJangid/cuda-edge-detection) | High-throughput CUDA edge detection engine — Shared-Memory & Constant Sobel, 4-stage Canny GPU pipeline, Roofline analysis, Nsight profiling (59× speedup) | `CUDA` `C++17` `Roofline` `Nsight` `OpenCV` |
 | [**ai-agent-framework**](https://github.com/ShashankJangid/ai-agent-framework) | Multi-agent orchestration with LangGraph — BaseAgent interface, ResearchAgent, Critic reflection loop, sliding-window memory | `LangChain` `LangGraph` `Gemini` `Pydantic` |
 | [**rag-langchain-pipeline**](https://github.com/ShashankJangid/rag-langchain-pipeline) | Production RAG pipeline — LangChain LCEL, ChromaDB vector store, CrossEncoder hybrid reranking, FastAPI async service | `LangChain` `ChromaDB` `RAG` `FastAPI` |
 | [**llm-finetuning-toolkit**](https://github.com/ShashankJangid/llm-finetuning-toolkit) | QLoRA & DPO alignment — PEFT LoRA adapters on Gemma-2B, TRL SFTTrainer, DeepSpeed ZeRO-3, vLLM export | `PEFT` `LoRA` `DPO` `Transformers` |
