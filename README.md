@@ -105,8 +105,12 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 **Robotics · Hardware**<br/>
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/Unitree_SDK-FF6B00?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/nRF24L01-2.4GHz_RF-111111?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/MPU6050-IMU_Sensor-FF6B00?style=for-the-badge&logo=circuitverse&logoColor=white" />
+<img src="https://img.shields.io/badge/MQ2-Gas_Sensor-333333?style=for-the-badge&logo=circuitverse&logoColor=white" />
 
 <br/><br/>
 
@@ -116,7 +120,16 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br/><br/>
+
+**AI APIs · Vision**<br/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-22314E?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-FF6B00?style=for-the-badge&logo=ultralytics&logoColor=white" />
 
 <br/><br/>
 
