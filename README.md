@@ -2,7 +2,7 @@
 
 # Shashank Jangid
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=720&lines=Founder+%40+Orange+Future+Tech;AI+%26+ML+Engineer+%7C+LLMs+%7C+RAG+%7C+Fine-Tuning;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;Multi-Agent+Systems+%7C+LangChain+%7C+LangGraph;Enterprise+Software+%7C+TypeScript+%7C+Next.js" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=740&lines=Founder+%40+Orange+Future+Tech;AI+%26+ML+Engineer+%7C+LLMs+%7C+RAG+%7C+Fine-Tuning;CUDA+C%2B%2B+%7C+GPU+Accelerated+Vision+%26+Edge+Compute;Robotics+SDK+Author+%7C+C%2B%2B+%2B+Python;Multi-Agent+Systems+%7C+LangChain+%7C+LangGraph;Enterprise+Software+%7C+TypeScript+%7C+Next.js" alt="Typing animation" />
 
 <br/>
 
@@ -20,23 +20,24 @@
 
 ---
 
-I operate at the intersection of **AI systems**, **industrial robotics**, and **production software** — building things that work in the real world, not just in notebooks.
+I operate at the intersection of **AI systems**, **GPU compute / CUDA**, **industrial robotics**, and **production software** — building things that work in the real world, not just in notebooks.
 
 Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an engineering company delivering industrial automation, robotics R&D products, and STEM education platforms.
 
-> Open to **AI/ML Engineer**, **MLOps**, **Full-Stack**, or **Robotics Software** roles. Available for full-time, contract, and consulting engagements.
+> Open to **AI/ML Engineer**, **MLOps**, **CUDA / Vision**, **Full-Stack**, or **Robotics Software** roles. Available for full-time, contract, and consulting engagements.
 
 ---
 
-### AI & Machine Learning Projects
+### AI, Vision & Compute Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**ai-agent-framework**](https://github.com/ShashankJangid/ai-agent-framework) | Multi-agent orchestration with LangGraph — BaseAgent interface, ResearchAgent, Orchestrator state machine, sliding-window memory | `LangChain` `LangGraph` `Gemini` `Pydantic` |
-| [**rag-langchain-pipeline**](https://github.com/ShashankJangid/rag-langchain-pipeline) | Production RAG pipeline — LangChain LCEL, ChromaDB vector store, HuggingFace embeddings, PDF/URL/text ingestion | `LangChain` `ChromaDB` `RAG` `Embeddings` |
-| [**llm-finetuning-toolkit**](https://github.com/ShashankJangid/llm-finetuning-toolkit) | QLoRA fine-tuning — PEFT LoRA adapters on Gemma-2B, TRL SFTTrainer, 4-bit NF4 quantization, W&B tracking | `PEFT` `LoRA` `Transformers` `W&B` |
+| [**cuda-edge-detection**](https://github.com/ShashankJangid/cuda-edge-detection) | High-performance real-time edge detection in C++/CUDA — 2D shared-memory Sobel + 4-stage Canny GPU pipeline (50x+ speedup) | `CUDA` `C++17` `OpenCV` `GPU Compute` |
+| [**ai-agent-framework**](https://github.com/ShashankJangid/ai-agent-framework) | Multi-agent orchestration with LangGraph — BaseAgent interface, ResearchAgent, Critic reflection loop, sliding-window memory | `LangChain` `LangGraph` `Gemini` `Pydantic` |
+| [**rag-langchain-pipeline**](https://github.com/ShashankJangid/rag-langchain-pipeline) | Production RAG pipeline — LangChain LCEL, ChromaDB vector store, CrossEncoder hybrid reranking, FastAPI async service | `LangChain` `ChromaDB` `RAG` `FastAPI` |
+| [**llm-finetuning-toolkit**](https://github.com/ShashankJangid/llm-finetuning-toolkit) | QLoRA & DPO alignment — PEFT LoRA adapters on Gemma-2B, TRL SFTTrainer, DeepSpeed ZeRO-3, vLLM export | `PEFT` `LoRA` `DPO` `Transformers` |
+| [**computer-vision-pipeline**](https://github.com/ShashankJangid/computer-vision-pipeline) | Real-time detection + tracking — YOLOv8, ByteTrack multi-object tracker, spatial heatmaps, line-crossing ROI counter | `YOLOv8` `OpenCV` `ByteTrack` `Python` |
 | [**gemini-multimodal-suite**](https://github.com/ShashankJangid/gemini-multimodal-suite) | 4-tool Streamlit app — AI chat, image analysis, meeting audio summarizer, and code reviewer via Gemini API | `Gemini API` `Streamlit` `Vision` `Audio` |
-| [**computer-vision-pipeline**](https://github.com/ShashankJangid/computer-vision-pipeline) | Real-time detection + tracking — YOLOv8 inference on image/video/webcam, ByteTrack multi-object tracker | `YOLOv8` `OpenCV` `ByteTrack` `Python` |
 | [**Machine_Learning_Ops**](https://github.com/ShashankJangid/Machine_Learning_Ops) | DistilBERT fine-tuned on Goodreads reviews for 7-class genre classification, deployed to HuggingFace Hub | `HuggingFace` `Transformers` `W&B` |
 | [**Deep-Learning**](https://github.com/ShashankJangid/Deep-Learning) | Neural network for earthquake intensity prediction from seismic telemetry data | `TensorFlow` `Jupyter` `NumPy` |
 | [**AI_notes**](https://github.com/ShashankJangid/AI_notes) | Streamlit AI assistant suite — meeting audio summarizer and document cleaner via Gemini 2.5 Flash | `Gemini` `Streamlit` `Audio` |
@@ -75,9 +76,10 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 <p align="left">
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
