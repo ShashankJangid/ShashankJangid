@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://orangefuturetech.com"><img src="https://img.shields.io/badge/Orange_Future_Tech-orangefuturetech.com-FF6B00?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+<a href="https://shashankjangid.vercel.app"><img src="https://img.shields.io/badge/Orange_Future_Tech-shashankjangid.vercel.app-FF6B00?style=for-the-badge&logo=icloud&logoColor=white" /></a>
 <a href="https://shashankjangid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shashankjangid.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://cardgen.orangefuturetech.com"><img src="https://img.shields.io/badge/CardGen_Platform-cardgen.orangefuturetech.com-1C1C1C?style=for-the-badge&logo=buffer&logoColor=FF6B00" /></a>
+<a href="https://cardgen.shashankjangid.vercel.app"><img src="https://img.shields.io/badge/CardGen_Platform-cardgen.shashankjangid.vercel.app-1C1C1C?style=for-the-badge&logo=buffer&logoColor=FF6B00" /></a>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 I operate at the intersection of **AI systems**, **GPU compute / CUDA**, **industrial robotics**, and **production software** — building things that work in the real world, not just in notebooks.
 
-Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an engineering company delivering industrial automation, robotics R&D products, and STEM education platforms.
+Currently running **[Shashank Jangid](https://shashankjangid.vercel.app)** — an engineering company delivering industrial automation, robotics R&D products, and STEM education platforms.
 
 > Open to **AI/ML Engineer**, **MLOps**, **CUDA / Vision**, **Full-Stack**, or **Robotics Software** roles. Available for full-time, contract, and consulting engagements.
 
@@ -65,8 +65,8 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Orange Future Tech**](https://orangefuturetech.com) | Company platform for industrial automation, robotics products, and STEM engineering | `JavaScript` `React` `Three.js` `Vercel` |
-| [**CardGen ID Platform**](https://cardgen.orangefuturetech.com) | Enterprise credential and identity card generation system for institutional use | `TypeScript` `Node.js` `Docker` |
+| [**Shashank Jangid**](https://shashankjangid.vercel.app) | Company platform for industrial automation, robotics products, and STEM engineering | `JavaScript` `React` `Three.js` `Vercel` |
+| [**CardGen ID Platform**](https://cardgen.shashankjangid.vercel.app) | Enterprise credential and identity card generation system for institutional use | `TypeScript` `Node.js` `Docker` |
 | [**Card_Gen**](https://github.com/ShashankJangid/Card_Gen) | ID card generator with custom templates, QR codes, and bulk export | `TypeScript` `Canvas API` |
 
 ---
