@@ -45,6 +45,7 @@ Currently running **[Orange Future Tech](https://orangefuturetech.com)** — an 
 
 | Project | Description | Stack |
 |---|---|---|
+| [**enterprise-cicd-pipeline**](https://github.com/ShashankJangid/enterprise-cicd-pipeline) | Enterprise CI/CD engine — 6-stage automated test matrix (Smoke, Alpha/Beta, Security, SLA, Compliance, Regression) with zero-downtime Blue-Green & Canary rollouts | `CI/CD` `GitHub Actions` `Docker` `Kubernetes` `FastAPI` |
 | [**mcp-server-toolkit**](https://github.com/ShashankJangid/mcp-server-toolkit) | MCP server exposing file system and HTTP tools to LLM clients — Claude Desktop, Cursor compatible | `MCP` `Python` `asyncio` |
 | [**n8n-workflow-hub**](https://github.com/ShashankJangid/n8n-workflow-hub) | Production n8n workflow templates — AI summarizer, GitHub→Slack notifier, scheduled DB backup | `n8n` `Automation` `CI/CD` |
 | [**distributed-db-sharding**](https://github.com/ShashankJangid/distributed-db-sharding) | Consistent hash ring with virtual nodes, ShardManager, query router, Bash health check scripts | `PostgreSQL` `Sharding` `Python` `Bash` |
